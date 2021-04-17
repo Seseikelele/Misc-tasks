@@ -12,5 +12,5 @@ Teach a simple neural network to act as a set of logic gates
 
 ![MNIST dataset example](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
 
-## [OpenCV]
+## [OpenCV]()
 ### to be commited
